@@ -1,7 +1,7 @@
 # OpenCV
 Contains files of projects to show proficiency with OpenCV
 
-#Projects
+# Projects
 
 ## Contour Detection
 Using OpenCV to detect contours on an image to observe how the contour detection works.
